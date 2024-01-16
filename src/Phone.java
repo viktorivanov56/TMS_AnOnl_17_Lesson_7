@@ -35,7 +35,8 @@ public class Phone {
 
     // Конструктор с двумя параметрами
     public Phone(String number, String model) {
-        this(number, model, 0.0); // Вызов конструктора с тремя параметрами
+       // Вызов конструктора с тремя параметрами
+        this(number, model, 0.0);
     }
 
     // Конструктор без параметров
